@@ -51,21 +51,8 @@ Error Handling:
 
 If you upload a file that is not a CSV, an error toast notification will appear.
 If the CSV file is empty or only contains headers with no data, an error toast notification will appear.
-Project Structure
-php
-Copy code
-csv-data-table-viewer/
-├── public/
-├── src/
-│   ├── data/             # csv files
-│   ├── components/       # React components
-│   ├── App.js            # Main app component
-│   ├── index.js          # Entry point of the app
-│   ├── ...               # Other files and folders
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
+
+
 Dependencies
 React - A JavaScript library for building user interfaces.
 Chakra UI - A simple, modular, and accessible component library for React.
