@@ -62,4 +62,4 @@ PapaParse - A powerful CSV parser for JavaScript.
 Acknowledgements
 Vara.eco thaks for the opportunity to showcase my skills.
 Thanks to the creators of Chakra UI and PapaParse for their amazing tools.
-Inspired by various open-source projects and tutorials.
+
