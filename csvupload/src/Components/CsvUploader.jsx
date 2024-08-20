@@ -105,9 +105,7 @@ function App() {
 
   const totalPages = Math.ceil(data.length / rowsPerPage);
 
-  const handlePageChange = (pageNumber) => {
-    setCurrentPage(pageNumber);
-  };
+ 
 
   const handleNextPage = () => {
     setCurrentPage((prev) => Math.min(prev + 1, totalPages));
