@@ -1,5 +1,6 @@
 # csvUploader
-
+DEPLOYED LINK-
+https://csvupload-64juof82j-akashsaha747s-projects.vercel.app
 CSV Data Table Viewer
 This project is a web application built with React and Chakra UI that allows users to upload a CSV file, view the data in a table format, and interact with the table through features such as pagination, row selection, and column selection. The application also includes error handling for unsupported file formats and empty CSV files.
 
